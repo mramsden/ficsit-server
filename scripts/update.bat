@@ -1,0 +1,1 @@
+C:\SteamCMD\steamcmd +login anonymous +force_install_dir C:\Satisfactory +app_update 1690800 validate +exit
